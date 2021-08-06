@@ -15,7 +15,7 @@ Then open `CMD`, `Terminal` or `shell` (whatever you call it! 🙂) in that fold
 ```sh
 python faceDetector.py
 ```
-**NOTE**: use `python3` instead of `python` if you're running on*Linux* or *MacOS*.\
+**NOTE**: use `python3` instead of `python`, if you're running on*Linux* or *MacOS*.\
 This command should start the script. After that it may take a while till a window appears, because at the first run it'll start to download and install opencv and numpy python packages (if you didn't have them already) which need to download about *60mb* of files, then you good to go!
 
 **Hope you enjoy it, find it usefull and learn something from it!** 👍🏼
