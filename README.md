@@ -9,7 +9,7 @@ I tried to explain every line plainly, but if you didn't get any part of it try 
 Try connecting your phone's camera to your PC for better quality and more detection accuracy of course. Just don't forget to change the index of `VideoCapture` (line **26**) to change the camera in use (try changing indexes until you find the suitable camera).
 
 ## How to run
-The first you need to do is downloading and installing [Python3](https://www.python.org).\
+The first thing you need to do is downloading and installing [Python3](https://www.python.org).\
 After that, download the files from [releases section](https://github.com/mehrshaad/Face_Detector/releases) and extract them.\
 Then open the [`cmd`](https://en.wikipedia.org/wiki/Cmd.exe), [`Terminal`](https://en.wikipedia.org/wiki/Terminal_(macOS)) or [`shell`](https://en.wikipedia.org/wiki/Unix_shell) (whatever you call it! 🙂) in that folder, and enter:
 ```sh
