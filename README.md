@@ -1,6 +1,6 @@
 # Face Detector
 A simple **Python** script implemented with **OpenCV**.\
-I used the [XML](https://en.wikipedia.org/wiki/XML) face and eyes datas from the [opencv repository](https://github.com/opencv/opencv) and cv2 Python package to use them in my script.\
+I used the [XML](https://en.wikipedia.org/wiki/XML) face and eyes data from the [opencv repository](https://github.com/opencv/opencv) and cv2 Python package to use them in my script.\
 Used packages are [opencv-python](https://pypi.org/project/opencv-python) and [numpy](https://pypi.org/project/numpy).
 
 ## How it works
